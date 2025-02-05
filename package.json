@@ -1,6 +1,6 @@
 {
   "name": "@3-/prettier-plugin-svelte",
-  "version": "3.2.7",
+  "version": "3.2.8",
   "description": "Svelte plugin for prettier",
   "main": "plugin.js",
   "files": [
@@ -28,20 +28,12 @@
     "prepare": "npm run build",
     "prepublishOnly": "npm test"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/sveltejs/prettier-plugin-svelte.git"
-  },
   "keywords": [
     "prettier",
     "svelte"
   ],
-  "author": "James Birtles <jameshbirtles@gmail.com>",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/sveltejs/prettier-plugin-svelte/issues"
-  },
-  "homepage": "https://github.com/sveltejs/prettier-plugin-svelte#readme",
+  "homepage": "https://github.com/i18n-fork/prettier-plugin-svelte/tree/tmp",
   "devDependencies": {
     "@rollup/plugin-alias": "^5.1.0",
     "@rollup/plugin-commonjs": "14.0.0",
